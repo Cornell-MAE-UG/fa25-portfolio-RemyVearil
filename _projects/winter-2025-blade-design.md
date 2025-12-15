@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Wind Turbine Blade Design
-description: A modeling project for MAE 4272: Fluids & Heat Transfer Lab. 
+description: A modeling project for MAE 4272 (Fluids & Heat Transfer Lab). 
 technologies: [MATLAB, BEM]
 image: /assets/images/blade-design.png
 ---
