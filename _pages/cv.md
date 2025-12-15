@@ -7,8 +7,7 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-**Email:** [rsv34@cornell.edu](mailto:rsv34@cornell.edu) | | | **Phone:** +1 (860) 816-9400  
-**Address:** 125 Highland Place, Ithaca, NY 14850
+**Email:** [rsv34@cornell.edu](mailto:rsv34@cornell.edu) | **Phone:** +1 (860) 816-9400  | **Address:** 125 Highland Place, Ithaca, NY 14850
 
 ---
 

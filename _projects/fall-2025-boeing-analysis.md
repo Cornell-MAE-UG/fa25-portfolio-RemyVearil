@@ -3,7 +3,7 @@ layout: project
 title: Boeing Ethical Analysis
 description: An ethical analysis of the Boeing 737 MAX crashes focusing on the MCAS system.
 technologies: [ASME Code of Ethics]
-image: /assets/images/function-graph.png
+image: /assets/images/boeing-analysis.jpeg
 ---
 
 ## Description
