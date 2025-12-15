@@ -12,5 +12,7 @@ This project consisted of a multi-week ethical analysis of the Boeing 737 MAX cr
 ## Ethical Insights
 Across the project, I evaluated key ethical questions including whether Boeing should have disclosed MCAS to pilots, whether engineers were pressured to rush development, whether adequate testing and pilot training were ethically required, and whether aircraft operations should have been halted after the first crash. Particular attention was paid to conflicts between public safety obligations and corporate pressures related to cost, competition, and schedule. By mapping these issues to professional engineering codes of ethics, the project highlights how ethical failures can arise not from a single bad decision, but from systemic breakdowns across technical, organizational, and regulatory layers.
 
+![Stakeholder diagram]({{ "/assets/images/stakeholders.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 ## Conclusion
 Overall, this project strengthened my ability to analyze complex engineering failures beyond purely technical causes, emphasizing the responsibility engineers hold to prioritize public safety, communicate risks transparently, and resist pressures that compromise ethical standards. It reinforced the importance of ethical reasoning as a core engineering skill, especially in safety-critical industries such as aerospace.
